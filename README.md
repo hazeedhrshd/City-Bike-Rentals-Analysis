@@ -42,7 +42,7 @@ The analysis is presented through interactive Tableau dashboards, providing a us
 
 ### Accessing the Tableau Dashboards
 
-You can access the Tableau dashboards through the following link: [City Bike Rentals]([insert-link-to-tableau-dashboards-here](https://public.tableau.com/app/profile/hazeed.harshad/viz/CityBikeRentals/CityBikeRentals))
+You can access the Tableau dashboards through the following link: [City Bike Rentals](https://public.tableau.com/app/profile/hazeed.harshad/viz/CityBikeRentals/CityBikeRentals)
 
 ## Project Structure
 
