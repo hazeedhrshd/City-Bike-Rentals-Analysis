@@ -66,6 +66,6 @@ The data used for this analysis is subject to the license agreement of the data 
 
 - Thanks to Tableau for providing a powerful tool to create interactive and insightful data visualizations.
 
-Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact us.
+Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact me.
 
 Happy analyzing! 🚲📊
