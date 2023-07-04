@@ -48,7 +48,7 @@ You can access the Tableau dashboards through the following link: [City Bike Ren
 
 The repository is organized as follows:
 
-- `City Bike Rentals`: file containing the Tableau workbook.
+- `City Bike Rentals.twb`: file containing the Tableau workbook.
 
 ## Usage
 
