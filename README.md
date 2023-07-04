@@ -60,7 +60,7 @@ To interact with the Tableau dashboards:
 
 ## License
 
-The data used for this analysis is subject to the license agreement of the data source. The Tableau dashboards and the content in this repository are available under the MIT License. Please see the `LICENSE` file for more details.
+The data used for this analysis is subject to the license agreement of the data source. The Tableau dashboards and the content in this repository are available under the MIT License. Please see the LICENSE file for more details.
 
 ## Acknowledgments
 
